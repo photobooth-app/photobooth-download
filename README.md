@@ -1,43 +1,22 @@
-# Photobooth Share (photobooth-share)
+# Photobooth-App Download-Portal for endusers
 
-![share interface](https://github.com/user-attachments/assets/93653de8-99c4-4dcc-8128-e1e3f4539d7b)
+This is the sourcecode for the download portal an enduser accesses when scanning a QR code in the photobooth-app.
 
-## Install the dependencies
+[![photobooth-app downloadportal share interface](https://raw.githubusercontent.com/photobooth-app/photobooth-download/main/assets/screenshot1.png)](https://photobooth-app.org/screenshots/)
+[![photobooth-app downloadportal share interface](https://raw.githubusercontent.com/photobooth-app/photobooth-download/main/assets/screenshot2.png)](https://photobooth-app.org/screenshots/)
+
+The build is usually included in the photobooth-app, there is no need to use this repository except if you want to contribute and develop.
+
+## Develop
 
 ```bash
-yarn
-# or
 npm install
 ```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
 
 ```bash
 quasar dev
 ```
 
-### Lint the files
-
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-### Format the files
-
-```bash
-yarn format
-# or
-npm run format
-```
-
-### Build the app for production
-
 ```bash
 quasar build
 ```
-
-### Customize the configuration
-
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
