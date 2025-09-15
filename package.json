@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.32.0",
-    "@intlify/unplugin-vue-i18n": "^6.0.8",
+    "@intlify/unplugin-vue-i18n": "^11.0.0",
     "@quasar/app-vite": "^2.4.0",
     "@types/node": "^24.4.0",
     "@vue/eslint-config-prettier": "^10.2.0",
