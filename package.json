@@ -17,27 +17,27 @@
   "dependencies": {
     "@quasar/extras": "^1.17.0",
     "@vueuse/core": "^13.9.0",
-    "quasar": "^2.18.2",
+    "quasar": "^2.18.5",
     "vue": "^3.5.18",
     "vue-i18n": "^11.1.12",
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.32.0",
-    "@intlify/unplugin-vue-i18n": "^11.0.0",
+    "@intlify/unplugin-vue-i18n": "^11.0.1",
     "@quasar/app-vite": "^2.4.0",
-    "@types/node": "^24.4.0",
+    "@types/node": "^24.6.2",
     "@vue/eslint-config-prettier": "^10.2.0",
     "@vue/eslint-config-typescript": "^14.6.0",
     "autoprefixer": "^10.4.21",
-    "eslint": "^9.35.0",
-    "eslint-plugin-vue": "^10.4.0",
+    "eslint": "^9.37.0",
+    "eslint-plugin-vue": "^10.5.0",
     "globals": "^16.4.0",
     "prettier": "^3.6.2",
-    "typescript": "^5.9.2",
+    "typescript": "^5.9.3",
     "vite-plugin-checker": "^0.10.3",
     "vite-plugin-singlefile": "^2.3.0",
-    "vue-tsc": "^3.0.0"
+    "vue-tsc": "^3.1.0"
   },
   "engines": {
     "node": "^28 || ^26 || ^24 || ^22 || ^20 || ^18",
